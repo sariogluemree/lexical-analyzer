@@ -1,0 +1,27 @@
+hi:=hello+25; /*addition */
+
+hello++; /increment/
+
+char array[]:="abcdefgh;";
+if(hi:=25)
+{
+    printf("%c",array[1]);
+}
+else if(hi:=15)
+{
+    hi:=hi-10;
+    CONtinue;
+}
+else if(hi:=35)
+{
+    hey:=hi/15;
+}
+else
+{
+    hi--;
+    break;
+}
+
+int *d1;
+
+ggg/fff;
